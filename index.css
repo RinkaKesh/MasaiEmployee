@@ -1,0 +1,28 @@
+body{
+    margin:0 auto;
+    max-width: 800px; 
+}
+h1{
+    color: blue;
+}
+
+th{
+    background-color: rgb(159, 159, 178);
+    
+}
+tbody{
+    background-color:rgb(233, 224, 224);
+    text-align: center;
+    
+}
+table{
+    border:2px solid grey ;
+}
+button{
+    background-color: grey;
+    color: aliceblue;
+    align-items: center;
+    
+    
+}
+/* Fill CSS here */
