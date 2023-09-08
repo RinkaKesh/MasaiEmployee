@@ -48,7 +48,7 @@ myForm.addEventListener("submit",function(e){
             td7.innerText="Senior"
         }
         
-        if(Number(ele.expe)<=1){
+        else if(Number(ele.expe)<=1){
             td7.innerText="Fresher"
         }
         else{
